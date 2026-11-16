@@ -1,0 +1,6 @@
+{
+  "name": "中国舞考级证书信息 · 何耀辉",
+  "description": "个人中国舞6级考级证书档案与信息展示页面（非官方页面）。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
